@@ -73,4 +73,4 @@ At least now when I’m taking multiple deep breaths while waiting for the Obsid
 
 ---
 
-[[INDEX - The Plain Text, Paper-Less Productivity Digest|INDEX - The Plain Text, Paper-Less Productivity Digest]]
+[[INDEX - Plain Text, Paper-Less Productivity Digest|INDEX - Plain Text, Paper-Less Productivity Digest]]
