@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/home/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+# Plain Text. Paper, Less.
+I'm [Ellane](https://medium.com/@miscellaneplans/about), and this is my plain text productivity-centred digital garden.
 
 >Keeping and backing up locally stored plain text is the only proven, future-proof way to stay in control of your digital notes.
 
