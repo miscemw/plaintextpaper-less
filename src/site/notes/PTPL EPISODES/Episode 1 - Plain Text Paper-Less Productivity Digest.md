@@ -73,4 +73,4 @@ At least now when I’m taking multiple deep breaths while waiting for the Obsid
 
 ---
 
-[[INDEX - Plain Text, Paper-Less Productivity Digest|INDEX - Plain Text, Paper-Less Productivity Digest]]
+[[PTPL EPISODES/_INDEX - Plain Text, Paper-Less Productivity Digest|_INDEX - Plain Text, Paper-Less Productivity Digest]]
