@@ -4,3 +4,7 @@
 
 
 My ideal productivity system is one I can dip into and out of; in other words, abandonproof. It must be simple enough that there's nothing to break.
+
+Apps should help things along, but the system should work well without them. See the [[NOTES/Productivity apps are like dishwashers|Dishwasher]] analogy.
+
+[[NOTES/M-Task Management App Addict|App addiction]], or shiny app syndrome, should be avoided at all costs.
