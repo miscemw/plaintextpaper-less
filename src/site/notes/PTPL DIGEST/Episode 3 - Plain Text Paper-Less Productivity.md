@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/ptpl-digest/episode-3-plain-text-paper-less-productivity/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+
+[[PTPL DIGEST/INDEX - Plain Text, Paper-Less Productivity Digest|INDEX - Plain Text, Paper-Less Productivity Digest]]
+
 ## Being organised without to do applications, read-it-later services, and easy Markdown quotes from the web
 
 ![](https://cdn-images-1.medium.com/max/1600/1*WBOA0lsaocL7h5HxY9ghzA.png)
