@@ -144,3 +144,8 @@ Charles Dickens organized his writing schedule without Things 3, and Eva Perón 
 4.  You have a productivity style: work with it, not against it. _Write down what you need from an app._
 
 Remembering these four truths can help you break free from shiny object syndrome, and focus on doing and experiencing. On living life, instead of constantly chasing a better way to plan.
+
+<br>
+
+---
+<a href="https://plaintextpaper-less.netlify.app" style="font-size: .8em">Home</a> | <a href="https://medium.com/@miscellaneplans/about" style="font-size: .8em">Medium </a> | <a href="https://twitter.com/miscellaneplans" style="font-size:.8em">Twitter</a>
