@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/ptpl-digest/episode-2-plain-text-paper-less-productivity/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+
 [[PTPL DIGEST/INDEX - Plain Text, Paper-Less Productivity Digest|INDEX - Plain Text, Paper-Less Productivity Digest]]
 
 # #2 - Plain Text, Paper-Less Productivity
