@@ -53,3 +53,9 @@ Not to be defeated, I’m now trialling [Markbase](https://github.com/markbasete
 -   Tasks — `Command + Enter` shortcut turns a line of text into a task. Pressing it again toggles the task as complete/incomplete. I knew about the latter, but only found out this week that the same shortcut saves you going back to type - [ ] .
 -   Started using the Sanctum theme after falling in love with the aqua small caps links in Nicole van der Hoeven’s workspace. Sanctum has joined Red Graphite and Subtle Gold in my list of favourite themes.
 -   I will say that some things don’t work as expected in Sanctum. My shortcuts created in the Customizable Page Header and Title Bar plugin are cut off, for some reason. I have to create additional shortcuts just so the ones I want to see, appear.
+
+<br>
+
+
+---
+<a href="https://plaintextpaper-less.netlify.app" style="font-size: .8em">Home</a> | <a href="https://medium.com/@miscellaneplans/about" style="font-size: .8em">Medium </a> | <a href="https://twitter.com/miscellaneplans" style="font-size:.8em">Twitter</a>
