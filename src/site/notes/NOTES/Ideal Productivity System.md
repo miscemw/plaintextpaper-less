@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/ideal-productivity-system/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/notes/ideal-productivity-system/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
 
