@@ -11,3 +11,7 @@ Digital task management is convenient, time saving, and efficient, but it’s im
 
 ---
 Read more in [[NOTES/M-Task Management App Addict|this piece]] on how I overcame app addiction
+<br>
+
+---
+<a href="https://plaintextpaper-less.netlify.app" style="font-size: .8em">Home</a> | <a href="https://medium.com/@miscellaneplans/about" style="font-size: .8em">Medium </a> | <a href="https://twitter.com/miscellaneplans" style="font-size:.8em">Twitter</a>
