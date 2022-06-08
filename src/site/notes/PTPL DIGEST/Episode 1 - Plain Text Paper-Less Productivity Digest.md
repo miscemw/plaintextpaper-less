@@ -72,5 +72,9 @@ At least now when I’m taking multiple deep breaths while waiting for the Obsid
 -   [How to set canonical links](https://help.medium.com/hc/en-us/articles/360033930293-Set-a-canonical-link) when posting content to your website and Medium at the same time, and why you need to do that.
 
 ---
-
 [[PTPL DIGEST/INDEX - Plain Text, Paper-Less Productivity Digest|INDEX - Plain Text, Paper-Less Productivity Digest]]
+
+<br>
+
+---
+<a href="https://plaintextpaper-less.netlify.app" style="font-size: .8em">Home</a> | <a href="https://medium.com/@miscellaneplans/about" style="font-size: .8em">Medium </a> | <a href="https://twitter.com/miscellaneplans" style="font-size:.8em">Twitter</a>
