@@ -25,7 +25,7 @@ Was me.
 
 She’s a persona I’m finally free of because I’ve learned to internalize four simple truths. If you can relate to Sue and you’re ready to change, these truths can help you, too.
 
-### 1. Just because a system has great reviews doesn’t mean it’s right for you.
+## 1. Just because a system has great reviews doesn’t mean it’s right for you.
 
 I learned about [Omnifocus](https://www.omnigroup.com/omnifocus) from the [Asian Efficiency blog](https://www.asianefficiency.com/omnifocus/), but it wasn’t until I learned that [David Sparks](https://www.macsparky.com/about) was also an Omnifocus man that I set off to download the trial.
 
@@ -41,11 +41,11 @@ _Truth:_ Omnifocus doesn’t suit the way I work.
 
 **Each of these was like a suit made for someone else. Looked stunning on the model, but pinched when I tried it on straight from the hanger.**
 
-#### Try this:
+### Try this:
 
 _When everyone is raving about an app or a system, find out who “everyone” is. What do they have in common? Does that sound like you? If you’re a trapezoidal peg, don’t force yourself into a pentagonal hole._
 
-### 2. If you can’t organize your day on paper, an app won’t help.
+## 2. If you can’t organize your day on paper, an app won’t help.
 
 I sometimes wonder how Charles Dickens planned his day or how Eva Perón kept track of her responsibilities, without the tech gadgets we rely on today.
 
@@ -69,7 +69,7 @@ The focus is on the result. A clean dish. Not on having the most recent top-of-t
 
 Digital task management is convenient, time saving, and efficient, but it’s important to remember that we can still be productive without tech.
 
-#### Try this:
+### Try this:
 
 _Take a plain piece of paper and write the three most important things you need to get done tomorrow. If anything else comes up during the day, write it under your list of three things._
 
@@ -79,7 +79,7 @@ I keep a digital master list of projects and tasks in my plain-text system, but 
 
 My squirrel notebook (Moleskine cahier) and my A7 daily task notebooklet (handmade from a single piece of A4 paper). Photo by the author.
 
-### 3. System-Hopping won’t change what’s stopping you from completing your tasks.
+## 3. System-Hopping won’t change what’s stopping you from completing your tasks.
 
 The excitement I felt when changing systems came from actually doing _something_ while procrastinating what I should have been doing. Seeing my tasks from a fresh perspective gave me a euphoric high. That feeling became a drug.
 
@@ -99,13 +99,13 @@ Beware the trap of [productivity porn](https://nesslabs.com/productivity-porn).
 
 [Todd Brison](https://medium.com/u/7e13af5e3c36)’s [Microjournaling system](https://www.toddbrison.com/microjournaling/) has simplified the way I do things with paper. It’s worth checking out.
 
-#### Try this:
+### Try this:
 
 _Go on a week-long app-detox. Write your lists on paper (keep it simple), or create plain text lists that any text editor can read._
 
 _Tip:_ If you’re committed to being paperless, [Caleb McDaniel](https://wcm1.web.rice.edu/plain-text-gtd.html) has an app-agnostic digital task management system that I found very helpful when creating my own.
 
-### 4. You Have a Productivity Style: Work With It, Not Against It
+## 4. You Have a Productivity Style: Work With It, Not Against It
 
 If a [rustic cottage garden](https://www.pinterest.com.au/waterfieldfox2/rustic-cottage-style-gardens/) appeals to you more than a [neatly trimmed suburban garden](https://www.pinterest.com.au/search/pins/?q=landscape%20front%20yard&rs=typed&term_meta[]=landscape%7Ctyped&term_meta[]=front%7Ctyped&term_meta[]=yard%7Ctyped) or the [palace gardens at Versailles](http://en.chateauversailles.fr/discover/estate/gardens), your planning style may have similar qualities. I see Omnifocus in the Versailles category, 2Do and Things as suburban gardens, and plain text lists as the rambling cottage garden.
 
@@ -131,11 +131,11 @@ My hybrid system feels like a bespoke suit that fits in all the right places. He
 
 I’ll add a link to how this system works once I’ve written about it in more detail.
 
-#### Try this:
+### Try this:
 
 _Make a list of everything you want a task management app to do for you. Put a star next to the functions you couldn’t do almost as easily with pencil and paper._
 
-### Summary
+## Summary
 
 Charles Dickens organized his writing schedule without Things 3, and Eva Perón lead her nation without Omnifocus.
 
