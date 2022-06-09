@@ -71,7 +71,7 @@ Remembering these four truths can help you break free from shiny object syndrome
 <br>
 
 ---
-*Read the full article [here](https://medium.com/live-your-life-on-purpose/i-was-a-task-management-app-addict-92396f23ece5). 
+*There's a lot more to this story! Read the full article [here](https://medium.com/live-your-life-on-purpose/i-was-a-task-management-app-addict-92396f23ece5).*
 
 ---
 <a href="https://plaintextpaper-less.netlify.app" style="font-size: .8em">Home</a> | <a href="https://medium.com/@miscellaneplans/about" style="font-size: .8em">Medium </a> | <a href="https://twitter.com/miscellaneplans" style="font-size:.8em">Twitter</a>
