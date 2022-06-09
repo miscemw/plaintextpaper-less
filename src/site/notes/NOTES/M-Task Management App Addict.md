@@ -3,9 +3,9 @@
 ---
 
 
-### I Was a Task Management App Addict
+# I Was a Task Management App Addict
 
-#### 4 Truths That Helped Me Break Free
+## 4 Truths That Helped Me Break Free
 
 ![Rustic scene with two rakes leaning against a rustic shed, glowing with golden sunshine.](https://cdn-images-1.medium.com/max/1600/0*xoRbIexmeFFl_cWx)
 
