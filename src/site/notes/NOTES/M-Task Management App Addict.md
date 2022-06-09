@@ -12,7 +12,7 @@
 Photo by [Ronaldo de Oliveira](https://unsplash.com/@ronaldordeoliveira?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)
 
 ---
-*This is a summary of a more detailed article published on [Medium](https://medium.com/live-your-life-on-purpose/i-was-a-task-management-app-addict-92396f23ece5). 
+*This is a summary of a more detailed article published on [Medium](https://medium.com/live-your-life-on-purpose/i-was-a-task-management-app-addict-92396f23ece5). *
 
 ---
 
